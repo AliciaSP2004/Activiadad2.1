@@ -1,0 +1,10 @@
+site_name: Actividad 2.1 - Documentación
+site_url: https://AliciaSP2004.github.io/Actividad2_1/
+use_directory_urls: true   
+nav:
+  - Home: index.md
+  - ejercicio1: ejercicio1.md
+  - ejercicio2: ejercicio2.md
+  - ejercicio3: ejercicio3.md
+theme:
+  name: material 
